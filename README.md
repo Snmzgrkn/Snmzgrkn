@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Computer Engineer<br>🔭 I’m currently working on .NET<br>
+🌱 Computer Engineer<br>🔭 I’m currently working on Full Stack Development<br>
 
 
 ## 🌐 Socials:
