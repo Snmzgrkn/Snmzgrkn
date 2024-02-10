@@ -76,16 +76,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/2l2ri4.jpg"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/snmzgrkn/snmzgrkn/output/snake.svg" alt="Snake animation" />
 
 ###
