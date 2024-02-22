@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Gürkan from Turkey<br><br>- 🔭University of Turkish Aeronautical Association / Computer Engineer 23'<br>- 📚 I'm currently learning Java<br>- ⚡ I love flying remote control planes in my spare time.</p>
+<p align="left">I'm Gürkan from Turkey<br><br>- 🔭University of Turkish Aeronautical Association / Computer Engineer 23'<br>- 📚 I'm currently learning on Patika+ Full Stack Development Bootcamp<br>- ⚡ I love flying remote control planes in my spare time.</p>
 
 ###
 
