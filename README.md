@@ -78,7 +78,7 @@ I'm a dedicated Computer Engineer currently honing my skills in Full Stack Devel
 
 ###
 ### 🎓 Education
-- **Computer Engineering (Bachelor's Degree)** - University of Turkish Aeronautical Association
+- **Computer Engineering (Bachelor's Degree)** - University of Turkish Aeronautical Association 23'
 - **Management Information Systems** - Istanbul University (AUZEF)
 - **Erasmus+ Program** - Politechnika Częstochowska
 - **Full Stack Development Bootcamp** - Patika+
