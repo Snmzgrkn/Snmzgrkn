@@ -75,7 +75,20 @@ I'm a dedicated Computer Engineer currently honing my skills in Full Stack Devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
+
 ###
+### 🎓 Education
+- **Computer Engineering (Bachelor's Degree)** - University of Turkish Aeronautical Association
+- **Management Information Systems** - Istanbul University (AUZEF)
+- **Erasmus+ Program** - Politechnika Częstochowska
+- **Full Stack Development Bootcamp** - Patika+
+###
+---
+
+### 📜 Certifications
+- **Artificial Intelligence Workshop** - BTK Academy
+- **TÜBİTAK BİLGEM YTE Bootcamp 2023:** Java, User Experience, Microservices, Figma Mock-Up, Spring
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
