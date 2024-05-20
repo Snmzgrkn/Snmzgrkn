@@ -22,12 +22,15 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
 I'm a dedicated Computer Engineer currently honing my skills in Full Stack Development at the Patika+ Bootcamp. With a strong foundation in computer engineering, I bring a mix of theoretical knowledge and practical experience, focusing on backend development and soon transitioning to frontend training.
 
-🌱 Currently Learning
-Backend Development at Patika+ Bootcamp
-Planning to transition to Frontend Development in the next phase
+---
+
+### 🌱 Currently Learning
+- **Backend Development** at Patika+ Bootcamp
+- Planning to transition to **Frontend Development** in the next phase
+
+---
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
