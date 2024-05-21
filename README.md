@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/eaWuP_9lY4IAAAAC/aragorn-spirit-army.gif"  />
-</div>
+
 <div align="center">
   <img height="180" src="https://github.com/Snmzgrkn/Snmzgrkn/blob/main/Bu_Hal%C4%B1y%C4%B1_Dokuyan_%C3%87ocuk_K%C3%B6r_Oldu__GORA.gif"  />
 </div>
