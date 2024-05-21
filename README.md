@@ -5,10 +5,11 @@
 ###
 
 <div align="center">
+  ![Bu_Halıyı_Dokuyan_Çocuk_Kör_Oldu__GORA](https://github.com/Snmzgrkn/Snmzgrkn/assets/56911478/c02188d8-a416-4631-bc0c-5a01bbb9c2b3)
+
   <a href="https://www.linkedin.com/in/gurkansonmez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>![Bu_Halıyı_Dokuyan_Çocuk_Kör_Oldu__GORA](https://github.com/Snmzgrkn/Snmzgrkn/assets/56911478/c02188d8-a416-4631-bc0c-5a01bbb9c2b3)
-
+  </a>
   <a href="https://medium.com/@snmzgrkn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
