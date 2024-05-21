@@ -1,11 +1,14 @@
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/eaWuP_9lY4IAAAAC/aragorn-spirit-army.gif"  />
 </div>
+<div align="center">
+  <img height="150" src="https://img.imgyukle.com/2024/05/21/ywsqBn.gif"  />
+</div>
 
 ###
 
 <div align="center">
-  ![Bu_Halıyı_Dokuyan_Çocuk_Kör_Oldu__GORA](https://github.com/Snmzgrkn/Snmzgrkn/assets/56911478/c02188d8-a416-4631-bc0c-5a01bbb9c2b3)
+ 
 
   <a href="https://www.linkedin.com/in/gurkansonmez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
