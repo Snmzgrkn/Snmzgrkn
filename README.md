@@ -33,6 +33,7 @@
 - Planning to transition to **Frontend Development** in the next phase
 
 ---
+https://learn.microsoft.com/api/credentials/share/en-us/GrkanSnmez-6131/4E406B973D6B3D04?sharingId=A95DB53604512645
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
