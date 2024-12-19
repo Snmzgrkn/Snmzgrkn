@@ -79,15 +79,17 @@
 ###
 ### 🎓 Education
 - **Computer Engineering (Bachelor's Degree)** - University of Turkish Aeronautical Association 23'
+- 
 - **Management Information Systems** - Istanbul University (AUZEF)
 - **Erasmus+ Program** - Politechnika Częstochowska
-- **Full Stack Development Bootcamp** - Patika+
+- **Backend Development Bootcamp** - Patika+
 ###
 ---
 
 ### 📜 Certifications
 - **Artificial Intelligence Workshop** - BTK Academy
 - **TÜBİTAK BİLGEM YTE Bootcamp 2023:** Java, User Experience, Microservices, Figma Mock-Up, Spring
+- **AZ-900**: Microsoft Azure Fundamentals Certification 2024'
 
 
 <h3 align="left">🔥   My Stats :</h3>
