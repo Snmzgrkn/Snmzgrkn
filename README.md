@@ -24,13 +24,12 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-  I'm a dedicated Computer Engineer currently honing my skills in Full Stack Development at the Patika+ Bootcamp. With a strong foundation in computer engineering, I bring a mix of theoretical knowledge and practical experience, focusing on backend development and soon transitioning to frontend training.
+I am a Computer Engineer currently working as a Cloud Support Engineer at vngrs, where I focus on delivering reliable and secure cloud-based solutions. My academic background and industry experience have provided me with a solid theoretical foundation and hands-on proficiency in modern engineering practices.While expanding my skill set through DevOps training, I remain dedicated to continuously enhancing my software development and cloud engineering abilities. By staying up to date with emerging technologies and best practices, I ensure that I can adapt quickly to new challenges. Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas!
 
 ---
 
 ### 🌱 Currently Learning
-- **Backend Development** at Patika+ Bootcamp
-- Planning to transition to **Frontend Development** in the next phase
+- **DevOps
 
 ---
 https://learn.microsoft.com/api/credentials/share/en-us/GrkanSnmez-6131/4E406B973D6B3D04?sharingId=A95DB53604512645
