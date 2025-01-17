@@ -29,10 +29,9 @@ I am a Computer Engineer currently working as a Cloud Support Engineer at vngrs,
 ---
 
 ### 🌱 Currently Learning
-- **DevOps
+- DevOps
 
 ---
-https://learn.microsoft.com/api/credentials/share/en-us/GrkanSnmez-6131/4E406B973D6B3D04?sharingId=A95DB53604512645
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -90,8 +89,6 @@ https://learn.microsoft.com/api/credentials/share/en-us/GrkanSnmez-6131/4E406B97
 ###
 ### 🎓 Education
 - **Computer Engineering (Bachelor's Degree)** - University of Turkish Aeronautical Association 23'
-- 
-- **Management Information Systems** - Istanbul University (AUZEF)
 - **Erasmus+ Program** - Politechnika Częstochowska
 - **Backend Development Bootcamp** - Patika+
 ###
@@ -101,6 +98,8 @@ https://learn.microsoft.com/api/credentials/share/en-us/GrkanSnmez-6131/4E406B97
 - **Artificial Intelligence Workshop** - BTK Academy
 - **TÜBİTAK BİLGEM YTE Bootcamp 2023:** Java, User Experience, Microservices, Figma Mock-Up, Spring
 - **AZ-900**: Microsoft Azure Fundamentals Certification 2024'
+- https://learn.microsoft.com/api/credentials/share/en-us/GrkanSnmez-6131/4E406B973D6B3D04?sharingId=A95DB53604512645
+
 
 
 <h3 align="left">🔥   My Stats :</h3>
